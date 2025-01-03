@@ -3,4 +3,5 @@
   * Bootstrap
 - JavaScript
   * React
+  * vue
 - PHP
