@@ -1,7 +1,7 @@
 - HTML
 - CSS
   * Bootstrap
+  * Tailwind CSS
 - JavaScript
   * React
-  * Vue
-- PHP
+  * Angular
